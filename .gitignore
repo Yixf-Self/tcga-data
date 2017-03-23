@@ -1,0 +1,8 @@
+*.dir
+TCGA*
+TARGET*
+*.sqlite
+*.pyc
+*-checkpoint.ipynb
+*.sublime-project
+*.sublime-workspace
